@@ -1,5 +1,5 @@
 pip==23.3
-setuptools==67.4.0
+setuptools==70.0.0
 wheel
 jupyter
 
